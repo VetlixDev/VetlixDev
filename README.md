@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Twig Bot](https://github.com/DevBase-Dev/helper-bot)**
+- 🔭 I’m currently working on **[Cryptex](https://github.com/VetlixDev/Cryptex)**
 
 - 🌱 I’m currently learning **Java**
 
